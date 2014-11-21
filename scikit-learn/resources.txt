@@ -8,4 +8,4 @@ http://ipython.org/
 
 TUTORIALS:
 https://github.com/0ddfell0w/sklearn_scipy2013
-
+https://www.youtube.com/watch?v=r4bRUvvlaBw
